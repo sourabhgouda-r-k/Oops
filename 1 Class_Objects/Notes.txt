@@ -1,0 +1,46 @@
+1. What is OOPs?
+OOPs stands for: Object-Oriented Programming System
+
+It is a programming approach based on:
+Classes
+Objects
+
+OOPs helps to:
+ -> Organize code
+ -> Reuse code
+ -> Improve security
+ -> Make large projects easier to manage
+
+
+2. What is a Class?
+A class is a blueprint or template used to create objects.
+
+It contains:
+Variables (data)
+Methods (functions)
+
+Example:
+Class = Blueprint of Car
+A class does not occupy memory until object is created.
+
+Syntax of Class
+class ClassName {
+    // variables
+
+    // methods
+}
+
+
+3. What is an Object?
+An object is a real instance of a class. Object occupies memory.
+
+Example:
+Real Car = Object
+
+Syntax: 
+ClassName objectName = new ClassName();
+
+
+4. Accessing Variables Using Object
+Syntax:
+objectName.variableName
